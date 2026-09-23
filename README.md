@@ -290,7 +290,7 @@ If you're building something interesting, explore the repositories and open an i
 
 ## ⚡ Developer Mindset
 
-```text
+```console
 Think      →   Design
 Design     →   Build
 Build      →   Test
@@ -332,9 +332,7 @@ Just technology that works. 🚀
   <a href="https://github.com/web4hub">github.com/web4hub</a>
 </p><!--
 **web4hub/Web4hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -344,3 +342,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[web4hub](https://api.github.com/app/hook/deliveries)
