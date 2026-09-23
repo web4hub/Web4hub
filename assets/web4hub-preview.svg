@@ -1,1 +1,15 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Web4hub ecosystem preview</title>
+<desc id="desc">A compact visual preview of Web4hub projects and technology domains.</desc>
+<rect width="1200" height="520" rx="28" fill="#0b1020"/>
+<text x="600" y="72" text-anchor="middle" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="36" font-weight="800">WEB4HUB</text>
+<text x="600" y="108" text-anchor="middle" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="18">Web4 · AI · Blockchain · Software</text>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+<rect x="25" y="125" width="250" height="145" rx="20" fill="#111827" stroke="#334155"/><text x="150" y="180" fill="#67e8f9" font-size="22" font-weight="800">WEB4</text><text x="150" y="218" fill="#94a3b8" font-size="15">Applications · Identity</text>
+<rect x="325" y="125" width="250" height="145" rx="20" fill="#111827" stroke="#334155"/><text x="450" y="180" fill="#c4b5fd" font-size="22" font-weight="800">LMLM</text><text x="450" y="218" fill="#94a3b8" font-size="15">Local AI · Models · Plugins</text>
+<rect x="625" y="125" width="250" height="145" rx="20" fill="#111827" stroke="#334155"/><text x="750" y="180" fill="#fde68a" font-size="22" font-weight="800">OMNISKEL-AI</text><text x="750" y="218" fill="#94a3b8" font-size="15">AI application architecture</text>
+<rect x="925" y="125" width="250" height="145" rx="20" fill="#111827" stroke="#334155"/><text x="1050" y="180" fill="#6ee7b7" font-size="22" font-weight="800">DEV CORE</text><text x="1050" y="218" fill="#94a3b8" font-size="15">SDKs · APIs · Compilers · Cloud</text>
+<path d="M100 350 H1100" stroke="#475569" stroke-width="2"/>
+<text x="600" y="410" fill="#cbd5e1" font-size="22" font-weight="700">IDEA → EXPERIMENT → BUILD → TEST → SHIP → ITERATE</text>
+<text x="600" y="458" fill="#64748b" font-size="17">Build beyond the web.</text>
+</g></svg>
