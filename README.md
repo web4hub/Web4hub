@@ -29,7 +29,7 @@
 
 The goal is to provide a place where experimental ideas, developer infrastructure, intelligent systems, decentralized technologies, programming languages, and next-generation applications can be designed and built together.
 
-```text
+```bash
                      ┌───────────────────────┐
                      │       WEB4HUB         │
                      │   Digital Ecosystem   │
@@ -147,13 +147,13 @@ Explore the ecosystem:
 * 🧠 [Awesome AI Prompts](https://github.com/web4hub/awesome-ai-prompts)
 
 ➡️ **Explore all repositories:**
-https://github.com/web4hub
+https://web4hub.github.io/
 
 ---
 
 ## 🧠 Technology Stack
 
-```text
+```bash
 ┌────────────────────────────────────────────────────┐
 │                    WEB4HUB                         │
 ├────────────────────────────────────────────────────┤
