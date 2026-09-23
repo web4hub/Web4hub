@@ -1,1 +1,28 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
+<title id="title">Web4hub ecosystem architecture</title>
+<desc id="desc">Web4hub connects Web4, AI, blockchain and software infrastructure through a shared developer and application layer.</desc>
+<defs>
+ <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#1e1b4b"/></linearGradient>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".25"/></filter>
+</defs>
+<rect width="1400" height="760" rx="32" fill="url(#a)"/>
+<text x="700" y="72" text-anchor="middle" fill="#fff" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="800">WEB4HUB ECOSYSTEM</text>
+<text x="700" y="108" text-anchor="middle" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="18">One engineering surface for emerging digital infrastructure</text>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle" filter="url(#s)">
+ <g><rect x="80" y="175" width="270" height="155" rx="24" fill="#0b2533" stroke="#22d3ee" stroke-width="2"/><text x="215" y="230" fill="#67e8f9" font-size="28" font-weight="800">WEB4</text><text x="215" y="268" fill="#cbd5e1" font-size="17">Apps · Identity</text><text x="215" y="294" fill="#cbd5e1" font-size="17">Protocols · Services</text></g>
+ <g><rect x="390" y="175" width="270" height="155" rx="24" fill="#21143a" stroke="#a78bfa" stroke-width="2"/><text x="525" y="230" fill="#c4b5fd" font-size="28" font-weight="800">AI</text><text x="525" y="268" fill="#cbd5e1" font-size="17">LLMs · Agents</text><text x="525" y="294" fill="#cbd5e1" font-size="17">Knowledge · Inference</text></g>
+ <g><rect x="740" y="175" width="270" height="155" rx="24" fill="#35230d" stroke="#fbbf24" stroke-width="2"/><text x="875" y="230" fill="#fde68a" font-size="28" font-weight="800">BLOCKCHAIN</text><text x="875" y="268" fill="#cbd5e1" font-size="17">Trust · Crypto</text><text x="875" y="294" fill="#cbd5e1" font-size="17">Wallets · Ledgers</text></g>
+ <g><rect x="1050" y="175" width="270" height="155" rx="24" fill="#17252b" stroke="#34d399" stroke-width="2"/><text x="1185" y="230" fill="#6ee7b7" font-size="28" font-weight="800">SOFTWARE</text><text x="1185" y="268" fill="#cbd5e1" font-size="17">SDKs · APIs</text><text x="1185" y="294" fill="#cbd5e1" font-size="17">Runtimes · Compilers</text></g>
+</g>
+<g fill="none" stroke="url(#b)" stroke-width="4" stroke-linecap="round">
+ <path d="M215 330 V405 H700 V455"/><path d="M525 330 V405 H700 V455"/><path d="M875 330 V405 H700 V455"/><path d="M1185 330 V405 H700 V455"/>
+</g>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle" filter="url(#s)">
+ <rect x="400" y="455" width="600" height="105" rx="26" fill="#111827" stroke="url(#b)" stroke-width="3"/>
+ <text x="700" y="500" fill="#fff" font-size="28" font-weight="800">DEVELOPER + INFRASTRUCTURE LAYER</text>
+ <text x="700" y="532" fill="#94a3b8" font-size="17">CI/CD · Automation · Security · Cloud · Tooling</text>
+ <rect x="220" y="625" width="960" height="68" rx="22" fill="#0b1220" stroke="#475569"/>
+ <text x="700" y="668" fill="#e2e8f0" font-size="22" font-weight="700">APPLICATIONS  →  SERVICES  →  INFRASTRUCTURE  →  ECOSYSTEM</text>
+</g>
+</svg>
