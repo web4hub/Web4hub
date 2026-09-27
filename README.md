@@ -1,5 +1,3 @@
-# 🌐 Web4hub
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/web4hub/Web4hub/main/assets/web4hub-banner.svg" alt="Web4hub — Build beyond the web" width="100%">
 </p>
@@ -47,10 +45,13 @@ The repository acts as a home for experiments, documentation, developer infrastr
 - 📡 [web4-publisher](https://github.com/web4hub/web4-publisher) — Web4 publishing infrastructure
 - 🧮 [Hypersphere-dimensional-model](https://github.com/web4hub/Hypersphere-dimensional-model) — Computational/model experimentation
 - 🤖 [awesome-ai-prompts](https://github.com/web4hub/awesome-ai-prompts) — AI prompt resources
+- [lmlm](https://github.com/web4hub/Lmlm.git) -Lmlm runtime
+- [codex](https://github.com/web4hub/codex) - coding agent
+- [godscript](https://github.com/web4hub/GODruntime) 
 
 ## 🧪 Engineering loop
 
-```text
+```md
 IDEA → EXPERIMENT → PROTOTYPE → TEST → IMPROVE → SHIP → ITERATE
 ```
 
@@ -62,8 +63,8 @@ Contributions, documentation, experiments, issues, and pull requests are welcome
 
 ## 🌐 Explore
 
-**Web4hub:** https://github.com/web4hub
+[**Web4hub:** ]https://github.com/web4hub
 
-**Repository:** https://github.com/web4hub/Web4hub
+[**Repository:** ]https://github.com/web4hub/Web4hub
 
 > **Build beyond the web.** 🚀
